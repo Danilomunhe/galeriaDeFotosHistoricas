@@ -1,3 +1,1 @@
-# GaleriaDeFotos
-# galeriaDeFotos
 # galeriaDeFotosHistoricas
